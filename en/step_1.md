@@ -1,59 +1,16 @@
-## Introduction
+The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+To apply an effect to the whole sound click on a sound effect tool below the sound wave: 
 
-### What you will make
+![The sound effect tools highlighted.](images/sound-effects-whole.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Use the play button to play the new sound. Click on the sound effect tools as many times as you like as each time it will apply the effect again.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold. Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.  
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Click on a sound effect tool. The sound wave will update and you can play your new sound:
 
-+ A computer or tablet capable of running Scratch 3
+![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
