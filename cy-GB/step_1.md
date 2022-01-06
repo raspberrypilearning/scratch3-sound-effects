@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+Ar y golygydd sain, galli di newid cyflymder y sŵn, lefel y sain ac effeithiau tewi - galli di hefyd ei wneud yn robotaidd!
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+I ddefnyddio effaith ar sain cyfan, clicia ar yr offer effaith sain o dan y donfedd sain:
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![Amlygu'r offer effeithiau sain.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+Clicia ar yr offer effeithiau sain cymaint o weithiau ag wyt ti'n dymuno oherwydd bydd yn defnyddio'r effaith eto bob tro.
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+I osod effaith ar ran o sain, dewisa'r safle cychwyn ar gyfer dy effaith ar y donfedd sain wedyn clicia'r botwm chwith a'i ddal.
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+Llusga bwyntydd y llygoden i safle gorffen yr effaith ac yna gollwng y botwm. Bydd ardal o'r donfedd sain wedi'i hamlygu.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Os wyt ti'n defnyddio tabled, defnyddia'r llygoden neu fys i dapio a llusgo dros y donfedd sain.
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+Clicia ar offeryn effaith sain. Bydd y donfedd sain yn diweddaru a byddi di'n gallu chwarae'r sain newydd:
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![Y donfedd sain yn y Golygydd Sain gyda'r ardal ganol wedi'i hamlygu.](images/trim-sound.png)
 
