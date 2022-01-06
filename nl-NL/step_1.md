@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+De geluidseditor heeft gereedschap om de snelheid, het volume en de fade-effecten van een geluid te veranderen - je kunt het ook robot-achtig maken!
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+Om een effect op het hele geluid toe te passen, klik je op een geluidseffect gereedschap onder de geluidsgolf:
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![Het geluidseffect gereedschap gemarkeerd.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+Klik zo vaak als je wilt op de hulpmiddelen voor geluidseffecten, want elke keer wordt het effect opnieuw toegepast.
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+Om een effect toe te passen op een deel van een geluid, kies je een startpositie voor je effect op de geluidsgolf en houdt je vervolgens de linkermuisknop ingedrukt.
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+Sleep je muisaanwijzer naar de eindpositie van het effect en laat los. Je ziet een gemarkeerd gebied op de geluidsgolf.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Als je een tablet gebruikt, gebruik je je muis of vinger om op de geluidsgolf te tikken en te slepen.
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+Klik op een geluidseffect gereedschap. De geluidsgolf wordt bijgewerkt en je kunt je nieuwe geluid afspelen:
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![De geluidsgolf in de geluidseditor met het middelste gedeelte gemarkeerd.](images/trim-sound.png)
 
