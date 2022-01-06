@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+L'éditeur de sons dispose d'outils pour modifier la vitesse, le volume et les effets de fondu d'un son - tu peux également le rendre robotique !
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+Pour appliquer un effet à l'ensemble du son, clique sur un outil d'effet sonore sous l'onde sonore :
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![Les outils d'effets sonores mis en évidence.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+Clique sur les outils d'effets sonores autant de fois que tu le souhaites car à chaque fois, l'effet sera réappliqué.
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+Pour appliquer un effet à une partie d'un son, choisis une position de départ pour ton effet sur l'onde sonore, puis clique et maintiens enfoncé.
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+Fais glisser le pointeur de ta souris jusqu'à la position finale de l'effet et relâche. Tu verras une zone en surbrillance sur l'onde sonore.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Si tu utilises une tablette, utilise ta souris ou ton doigt pour appuyer et faire glisser sur l'onde sonore.
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+Clique sur un outil d'effets sonores. L'onde sonore se mettra à jour et tu pourras jouer ton nouveau son :
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![L'onde sonore dans l'éditeur de sons avec la section centrale en surbrillance.](images/trim-sound.png)
 
