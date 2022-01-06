@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+El Editor de sonidos tiene herramientas para cambiar la velocidad, el volumen y los efectos de desvanecimiento de un sonido; ¡también puedes hacerlo robótico!
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+Para aplicar un efecto a todo el sonido, haz clic en una de las herramientas de efectos de sonido debajo de la onda de sonido:
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![Las herramientas de efectos de sonido resaltadas.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+Haz clic en las herramientas de efectos de sonido tantas veces como quieras, ya que cada vez que lo hagas se aplicará el efecto nuevamente.
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+Para aplicar un efecto a una parte del sonido, elige una posición inicial para tu efecto en la onda de sonido, luego haz clic izquierdo y mantén presionado.
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+Arrastra el puntero del ratón hasta la posición final del efecto y suéltalo. Verás un área resaltada en la onda de sonido.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Si estás usando una tableta, usa el dedo para tocar y arrastrar sobre la onda de sonido.
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+Haz clic en una herramienta de efectos de sonido. La onda de sonido se actualizará y podrás reproducir tu nuevo sonido:
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![La onda de sonido en el Editor de sonidos con la sección central resaltada.](images/trim-sound.png)
 
