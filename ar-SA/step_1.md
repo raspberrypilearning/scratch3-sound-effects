@@ -1,10 +1,10 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+يحتوي محرر الصوت على أدوات لتغيير سرعة الصوت وحجمه وتلاشي تأثيرات الصوت - يمكنك أيضًا جعله صوت روبوت!
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+لتطبيق تأثير على الصوت بالكامل ، انقر فوق أداة المؤثرات الصوتية الموجودة أسفل الموجة الصوتية:
 
 ![The sound effect tools highlighted.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+انقر فوق أدوات المؤثرات الصوتية عدة مرات كما تريد في كل مرة سيتم تطبيق التأثير مرة أخرى.
 
 To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
 
