@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+У звуковому редакторі є інструменти для зміни швидкості, гучності та ефекту згасання звуку. Також ти можеш зробити його роботизованим!
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+Щоб застосувати ефект до всієї звукової доріжки, натисни кнопку звукового ефекту, який знаходиться під звуковою хвилею:
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![Виділені кнопки звукових ефектів.](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+Натискай на кнопки зміни звукових ефектів стільки разів, скільки хочеш, і кожного разу ефект буде діяти повторно.
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+Щоб застосувати ефект до частини звукової доріжки, вибери початкову позицію на звуковій хвилі, а потім клацни лівою кнопкою миші й утримуй її.
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+Перетягни курсор миші до кінцевої позиції ефекту і відпусти. Ти побачиш на звуковій хвилі виділену ділянку.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Якщо ти використовуєш планшет, торкнись звукової хвилі за допомогою миші або пальця і перетягни її.
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+Натисни кнопку звукового ефекту. Звукова хвиля оновиться, і ти зможеш відтворити свій новий звук:
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![Звукова хвиля в Редакторі звуків з виділеною ділянкою посередині.](images/trim-sound.png)
 
