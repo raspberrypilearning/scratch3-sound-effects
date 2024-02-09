@@ -1,18 +1,18 @@
-The sound editor has tools to change the speed, volume and fade effects of a sound - you can also make it robotic!
+サウンドエディターには、音の速度、音量、フェード効果を変更したり、ロボットのようにもできるツールがあります。
 
-To apply an effect to the whole sound click on a sound effect tool below the sound wave:
+音全体に効果を適用するには、音波の下にある音響効果ツールをクリックします。
 
-![The sound effect tools highlighted.](images/sound-effect-whole.png)
+![効果音ツールがハイライトされます。](images/sound-effect-whole.png)
 
-Click on the sound effect tools as many times as you like as each time it will apply the effect again.
+音響効果ツールをクリックするたびに効果が再度適用されます。
 
-To apply an effect to part of a sound, choose a starting position for your effect on the sound wave then left-click and hold.
+音の一部に効果を適用するには、音波上で効果を開始する位置を選択し、左クリックしてそのまま押し続けます。
 
-Drag your mouse pointer to the effect end position and release. You will see a highlighted area on the sound wave.
+マウスポインターを効果の終了位置までドラッグして放します。 音波上で領域がハイライトされます。
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+タブレットを使用している場合は、マウスまたは指を使って音波上をタップしドラッグします。
 
-Click on a sound effect tool. The sound wave will update and you can play your new sound:
+音響効果ツールをクリックします。 音波が更新され、新しい音を再生できるようになります。
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![中央がハイライトされたサウンドエディターの音波。](images/trim-sound.png)
 
